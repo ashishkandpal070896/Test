@@ -1,4 +1,4 @@
-# test
+cd# test
 My first project is Github
 <br>
-Author name is Ashish Kandpal
+Author name is (git Ashish Kandpal)
